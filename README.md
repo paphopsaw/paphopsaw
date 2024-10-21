@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paphopsaw
-- 👀 I’m interested in computer graphics, simulation, and computer vision
+- 👀 I’m a full stack software engineer.
 
 <!---
 paphopsaw/paphopsaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
